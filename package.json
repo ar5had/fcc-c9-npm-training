@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": "https://github.com/arshdkhn1/fcc-c9-npm-training.git"
 }
