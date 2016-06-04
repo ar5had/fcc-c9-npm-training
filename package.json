@@ -1,0 +1,14 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "first njs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
